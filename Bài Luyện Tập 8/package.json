@@ -1,0 +1,15 @@
+{
+  "name": "bai-luyen-tap-8",
+  "version": "1.0.0",
+  "description": "Bài Luyện Tập 8 - Props, Component Tái Sử Dụng, FlatList và Điều Hướng Chi Tiết trong React Native",
+  "main": "App.js",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.73.0"
+  }
+}
