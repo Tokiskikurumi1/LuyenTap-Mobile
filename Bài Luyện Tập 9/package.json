@@ -1,0 +1,15 @@
+{
+  "name": "bai-luyen-tap-9",
+  "version": "1.0.0",
+  "description": "Bài Luyện Tập 9 - StyleSheet, Styling và Layout Flexbox trong React Native",
+  "main": "App.js",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.73.0"
+  }
+}
